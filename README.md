@@ -17,10 +17,6 @@
 - Even pretrained backbones need a lot of tweaking when added to new heads.
 - Getting decent mAP takes more than just architecture—it needs good data handling.
 
-### Writing Code Myself vs AI
-- AI tools speed up boilerplate and understanding unfamiliar libraries.
-- Writing training/eval logic myself helped me internalize model behavior better.
-
 ### Suggestions to Improve the Assignment
 - Include label formatting guidelines for beginners.
 - Recommend using torchvision detection models as base for rapid prototyping.
