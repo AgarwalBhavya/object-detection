@@ -6,3 +6,6 @@
 *.h5
 *.ckpt
 data/
+echo "data/" >> .gitignore
+echo "*.pth" >> .gitignore
+git add .gitignore
