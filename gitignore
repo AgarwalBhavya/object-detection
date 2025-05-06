@@ -1,0 +1,8 @@
+# .gitignore
+*.pth
+*.tar
+*.zip
+*.tar.gz
+*.h5
+*.ckpt
+data/
